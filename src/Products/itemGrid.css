@@ -1,0 +1,11 @@
+.display-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  width: 15%;
+}
